@@ -8,7 +8,7 @@
         Hello 34ML aaaaa    
     </h2>
     <h2>
-        B    
+        C
     </h2>
   </main>
 </template>
