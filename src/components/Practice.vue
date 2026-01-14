@@ -5,11 +5,14 @@
 <template>
   <main>
     <h2>
-        Hello 34ML aaaaa    
+        Feature 2
+        a 
+        b 
+        c 
+        d 
+        e
     </h2>
-    <h2>
-        C
-    </h2>
+
   </main>
 </template>
 
