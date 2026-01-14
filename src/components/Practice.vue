@@ -5,12 +5,19 @@
 <template>
   <main>
     <h2>
-        Hello 34ML aaaaa    
+      Feature 1
+      1
+      2
+      3
+      4
+      5
+      6
+      7
+      8
+      9
+      10    
     </h2>
-    <h2>
-        C
-    </h2>
-  </main>
+  </main> 
 </template>
 
 <style scoped>
