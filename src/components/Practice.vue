@@ -16,8 +16,16 @@
       8
       9
       10    
+ 
+        Feature 2
+        a 
+        b 
+        c 
+        d 
+        e
     </h2>
-  </main> 
+
+  </main>
 </template>
 
 <style scoped>
